@@ -28,11 +28,6 @@ JSON olarak indirmek; bunu yaparken veriyi bir sunucuya göndermemek.
   varsayılan olarak apostrofla etkisizleştirilir; koruma kapatılırsa durum metni bunu bildirir.
 - 300 satırlık görünüm penceresi; sayfa kendi içinde kaymaz, tablo kaydırılır.
 
-## Ekran görüntüsü
-
-Bu depoda ekran görüntüsü **yoktur**; uydurma görsel eklenmemiştir. Kendi görüntünüzü
-1440 px ve 390 px genişlikte, gerçek bir CSV yüklüyken alın ve tarayıcı sürümünü yazın.
-
 ## Gereksinimler
 
 - Güncel Chrome, Edge, Firefox veya Safari.
@@ -119,10 +114,3 @@ Sayfa yenilendiğinde dosya ve türetilmiş veriler kaybolur.
 - Alan içi satır sonları tablo görünümünde tek satırda gösterilir; hücre düzenleme yoktur.
 - Formül azaltması dışa aktarımda uygulanır; ekrandaki değer değiştirilmez.
 
-## Ayrı GitHub deposu olarak yayınlama
-
-1. Bu klasörü yeni depoya kopyalayın.
-2. GitHub Pages için dosyayı **`index.html`** olarak yeniden adlandırın.
-3. Pages → "Deploy from a branch" → `main` / `root`.
-4. Yayın sonrası gerçek bir CSV dosyasıyla ayrıştırma, sıralama ve indirmeyi doğrulayın.
-5. Lisans seçip `LICENSE` ekleyin; gerçek ekran görüntüsü ekleyin.
